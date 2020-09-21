@@ -120,6 +120,7 @@ Resources:
             - 's3:PutObject'
             - 's3:GetObject'
             - 's3:DeleteObject'
+            - 's3:SetBucketEncryption'
             - 'iam:PassRole'
             - 'kinesis:*'
             - 'iam:GetRole'
