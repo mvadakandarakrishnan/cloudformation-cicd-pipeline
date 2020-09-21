@@ -6,7 +6,7 @@ provider:
   name: aws
   runtime: nodejs8.10
   stage: dev
-  region: us-west-1
+  region: ca-central-1
 
 functions:
   app:
